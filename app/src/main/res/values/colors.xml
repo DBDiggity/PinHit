@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <color name="colorPrimary">#4abdac</color>
+        <color name="colorPrimaryDark">#255e56</color>
+        <color name="colorSecondary">#d8f793</color>
+        <color name="colorSecondaryDark">#a0ca92</color>
+        <color name="colorAccent">#fc4a1a</color>
+        <color name="colorTextAccent">#F3CD70</color>
+        <color name="colorTextPrimary">#ffffff</color>
+
+        <!-- 1st Gradient color -->
+        <color name="colorTeal_A400">#4abdac</color>
+        <color name="colorTeal_900">#255e56</color>
+        <!-- ./ 1st Gradient color -->
+
+        <!-- 2nd Gradient color -->
+        <color name="colorAmber_A400">#f7b733</color>
+        <color name="colorAmber_900">#624914</color>
+        <!-- ./ 2nd Gradient color -->
+
+        <!-- 3rd Gradient color -->
+        <color name="colorGreen_A400">#d8f793</color>
+        <color name="colorGreen_900">#56623a</color>
+        <!-- ./ 3rd Gradient color -->
+
+        <!-- 4th Gradient color -->
+        <color name="colorGreen2_A400">#a0ca92</color>
+        <color name="colorGreen2_900">#40503a</color>
+        <!-- ./ 4th Gradient color -->
+
+    <!-- 5th Gradient color -->
+    <color name="colorRed_A400">#FF1744</color>
+    <color name="colorRed_900">#B71C1C</color>
+    <!-- ./ 5th Gradient color -->
+
+    <!--Bottom Nav Colors-->
+    <color name="tab_disable">#979797</color>
+    <color name="tab_enable">#FFFFFF</color>
+    <color name="tab_checked">#F3CD70</color>
+    <color name="tab_unchecked">#FFFFFF</color>
+    <!--./ Bottom Nav Colors-->
+
+
+    <color name="colorBackground">#241445</color>
+    <color name="separatorColor">#18102C</color>
+
+    <!--Base Colors-->
+    <color name="white">#ffffff</color>
+    <color name="grey">#ebebeb</color>
+    <color name="overlay_black">#a5000000</color>
+    <color name="pink">#FF308E</color>
+    <color name="orange">#FA9301</color>
+    <color name="yellow">#F8D411</color>
+    <color name="blue">#20CBF3</color>
+    <color name="purple">#6F26FA</color>
+    <color name="green">#49CC56</color>
+    <color name="grayish_green">#4e5957</color>
+
+
+</resources>
+
